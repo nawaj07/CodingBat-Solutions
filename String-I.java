@@ -1,7 +1,7 @@
-Codingbat.com
+#Codingbat.com
 
-Module: String 1
-
+#Module: String 1
+==========================================================================================================================================
 #helloName:
 
 public String helloName(String name) {
